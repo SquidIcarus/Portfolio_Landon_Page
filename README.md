@@ -1,11 +1,32 @@
-# Landon's Profile Landing Page
+# First Code Review
 
-- application name
-- names of contributors
-- description of application
-- link to site on GitHub Pages
-- a "technologies used" section
-- application setup instructions
-- link to site on GitHub Pages
-- a "known bugs" section
-- copyright, date, and license information
+## Landon's Profile Landing Page
+
+This project is created to display what I have learned in the first two weeks at epicodus.
+
+## Main objectives for this project
+
+    - Utilize simple HTML tags
+
+    - Include a custom-made stylesheet that uses typograhy styles, box model (including margin, border and padding), and floats
+
+    - Clean code, well-refactored and easy-to-read with correct indentation, spacing and including only necessary comments and debugging tools.
+
+    - Commits are made regularly with clear messages that *finish* the phrase **"It will..."**
+
+    - Project repo contains a README with all of the necessary information.
+
+    - Site is successfully deployed to GitHub pages.
+
+    - Project is in a polished, portfolio-quality state.
+
+    - The prompt's required functionality and baseline project requirements are in place by the deadline.
+
+## Link to site on GitHub Pages
+https://squidicarus.github.io/Portfolio_Landon_Page/
+
+Copyright © 2023 Landon Leadford
+
+
+ 
+
