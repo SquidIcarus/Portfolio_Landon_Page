@@ -22,8 +22,46 @@
     color: honeydew;
 }
 
-.img {
-    max-width: 400px;
+.colored-box {
+    background-color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.round-profile {
+    display: inline-block;
+    border-radius: 5%;
+    overflow: hidden;
+    border: 2px sandybrown;
+    width: 500px;
+    height: 500px;
+}
+
+.round-profile img {
     border-radius: 50%;
-    float: left;
+    max-width: 100%;
+    display: block;
+}
+
+.text-container p {
+    margin: 10px 0;
+    font-size: 35px;
+}
+
+.column {
+    border: 5px solid black;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.column-list {
+    column-count: 1;
+    column-gap: 50px;
+}
+
+.column-list li {
+    font-size: 25px;
+    padding: 0%;
+    margin-bottom: 5px;
 }
