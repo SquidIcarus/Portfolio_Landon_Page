@@ -48,3 +48,41 @@
     margin: 10px 0;
     font-size: 35px;
 }
+
+.sidebar {
+    float: right;
+    width: 25%;
+    background-color: cadetblue;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box {
+    border: 1px khaki;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.list {
+    list-style: circle;
+    padding: 0;
+    text-align: left;
+}
+
+.list li {
+    margin-bottom: 10px;
+}
+
+.description {
+    text-align: center;
+    font-style: italic;
+}

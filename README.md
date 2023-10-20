@@ -25,6 +25,12 @@ This project is created to display what I have learned in the first two weeks at
 ## Link to site on GitHub Pages
 https://squidicarus.github.io/Portfolio_Landon_Page/
 
+## What's the purpose?
+This page was created with HTML and CSS for the purpous of being code reviewed at © Epicodus, Inc.
+
+## Headaches and issues while creating this page
+
+
 Copyright © 2023 Landon Leadford
 
 
