@@ -48,20 +48,3 @@
     margin: 10px 0;
     font-size: 35px;
 }
-
-.column {
-    border: 5px solid black;
-    margin-left: 450px;
-    margin-right: 450px;
-}
-
-.column-list {
-    column-count: 1;
-    column-gap: 50px;
-}
-
-.column-list li {
-    font-size: 25px;
-    padding: 0%;
-    margin-bottom: 5px;
-}
