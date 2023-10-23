@@ -1,7 +1,3 @@
-.container {
-    display: flex;
-}
-
 .banner {
     width: 100%;
     height: 200px;
@@ -24,11 +20,6 @@
 .banner-text h1 {
     font-size: 75px;
     color: honeydew;
-}
-
-.content {
-    display: flex;
-    flex: 1;
 }
 
 .colored-box {
