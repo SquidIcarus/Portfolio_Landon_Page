@@ -46,8 +46,7 @@
 .main-content {
     width: 70%;
     box-sizing: border-box;
-    background-color: beige;
-    border: 2px solid black;
+    background-color: darkseagreen;
     padding: 20px;
     min-height: 300px;
 }
@@ -77,6 +76,9 @@
     float: right;
     width: 30%;
     background-color: cadetblue;
+    border: 5px solid black;
+    border-style: double;
+    max-height: 635px;
     padding: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -108,4 +110,11 @@ h2 {
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+}
+
+.footer {
+    background-color: darkgoldenrod;
+    max-width: auto;
+    margin: 0 auto;
+    min-height: 100px;
 }
