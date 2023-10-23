@@ -30,6 +30,9 @@ This page was created with HTML and CSS for the purpous of being code reviewed a
 
 ## Headaches and issues while creating this page
 
+- Was able to apply img and text to banner, couldn't get it right in main about me section.
+
+- Site looks best at 100% zoom, some boxes and txt overlap at different zoom points.
 
 Copyright © 2023 Landon Leadford
 
