@@ -2,7 +2,7 @@
 
 ## Landon's Profile Landing Page
 
-This project is created to display what I have learned in the first two weeks at epicodus.
+This project is created to display what I have learned in the first two weeks at Epicodus.
 
 ## Main objectives for this project
 
