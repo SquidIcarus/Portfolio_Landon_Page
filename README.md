@@ -34,7 +34,7 @@ This page was created with HTML and CSS for the purpous of being code reviewed a
 
 - Site looks best at 100% zoom, some boxes and txt overlap at different zoom points.
 
-Copyright © 2023 Landon Leadford
+[Copyright © 2023 Landon Leadford](LICENSE.txt)
 
 
  
