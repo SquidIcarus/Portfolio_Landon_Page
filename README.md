@@ -25,15 +25,49 @@ This project is created to display what I have learned in the first two weeks at
 ## Link to site on GitHub Pages
 https://squidicarus.github.io/Portfolio_Landon_Page/
 
-## What's the purpose?
-This page was created with HTML and CSS for the purpous of being code reviewed at © Epicodus, Inc.
+## Setup/Installation Requirements
 
-## Headaches and issues while creating this page
+**How to clone this project to your desktop**
+
+**1. Get repository URL**
+- Go to the [repository on GitHub](https://github.com/SquidIcarus/Portfolio_Landon_Page)
+- Click on the "code" button
+- Copy the URL
+
+**2. Clone the Repository**
+- Open the Terminal or GitBash
+- Navigate to the desktop (cd ~/desktop)
+- Type in "$ git clone" followed by the repository URL
+    - $ git clone https://github.com/SquidIcarus/Portfolio_Landon_Page.git
+
+**3. Check to see if clone was successful**
+- in the desktop directory
+- type "$ ls"
+- Listed, you should see "Portfolio_Landon_PAge"
+- The project is now available on your desktop 
+
+
+## Technologies used:
+
+**Computer & Operating System:**
+-Lenovo Ideapad
+-Windows 10
+
+**software Tools**
+-GitBash 
+-VsCode 
+
+**Language**
+- HTML
+- CSS
+
+## Known Bugs
 
 - Was able to apply img and text to banner, couldn't get it right in main about me section.
 
 - Site looks best at 100% zoom, some boxes and txt overlap at different zoom points.
 
+## License
 [Copyright © 2023 Landon Leadford](LICENSE.txt)
 
 
