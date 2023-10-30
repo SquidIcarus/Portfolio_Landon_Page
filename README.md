@@ -50,12 +50,12 @@ https://squidicarus.github.io/Portfolio_Landon_Page/
 ## Technologies used:
 
 **Computer & Operating System:**
--Lenovo Ideapad
--Windows 10
+- Lenovo Ideapad
+- Windows 10
 
 **software Tools**
--GitBash 
--VsCode 
+- GitBash 
+- VsCode 
 
 **Language**
 - HTML
